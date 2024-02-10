@@ -7,9 +7,9 @@ Frontend Developer
 As an adept college student skilled in frontend development, I'm currently venturing into the dynamic realm of full-stack web development. Eager to expand my horizons, I am keenly interested in mastering cutting-edge technologies such as AI and cybersecurity. With a passion for innovation and a hunger for learning, I'm ready to dive into new stacks and embark on exciting coding adventures.
 
 * 🌍  I'm based in Mumbai,India
-* ✉️  You can contact me at [divyanshmodi2510@gmail.com](mailto:divyanshmodi2510@gmail.com)
+* ✉️  To connect, shoot me an email at [divyanshmodi2510@gmail.com](mailto:divyanshmodi2510@gmail.com)
 * 🚀  I'm currently working on [Turboflare Car website](http://github.com/TechSavvyDivyansh/Tuboflare)
-* 🧠  I'm learning Web scrapping using selenium and backend Web developement
+* 🧠  I'm currently delving into Selenium exploration for web scraping while refining my mastery of backend development.
 * ⚡  I am a Pixel Perfectionist....tell that to everyone
 
 ### Skills
