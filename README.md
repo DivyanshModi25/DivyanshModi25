@@ -12,7 +12,6 @@ As an adept college student skilled in frontend development, I'm currently ventu
 * 🧠  I'm currently delving into Selenium exploration for web scraping while refining my mastery of backend development.
 * ⚡  I am a Pixel Perfectionist....tell that to everyone
 
-![](https://komarev.com/ghpvc/?username=TechSavvyDivyansh&color=orange)
 ### Skills
 
 
