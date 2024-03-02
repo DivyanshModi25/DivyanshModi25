@@ -12,6 +12,7 @@ As an adept college student skilled in frontend development, I'm currently ventu
 * 🧠  I'm currently delving into Selenium exploration for web scraping while refining my mastery of backend development.
 * ⚡  I am a Pixel Perfectionist....tell that to everyone
 
+
 ### Skills
 
 
@@ -29,7 +30,7 @@ As an adept college student skilled in frontend development, I'm currently ventu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TechSavvyDivyansh"><img src="https://github-readme-stats.vercel.app/api?username=TechSavvyDivyansh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TechSavvyDivyansh's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/TechSavvyDivyansh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSavvyDivyansh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
