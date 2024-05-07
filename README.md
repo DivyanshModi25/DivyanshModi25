@@ -11,6 +11,7 @@ As an adept college student skilled in frontend development, I'm currently ventu
 * 🚀  I'm currently working on [Turboflare Car website](http://github.com/TechSavvyDivyansh/Turboflare)
 * 🧠  I'm currently delving into Selenium exploration for web scraping while refining my mastery of backend development.
 * ⚡  I am a Pixel Perfectionist....tell that to everyone
+* 🏆 Winner of Technext minithon'23
 
 ### Skills
 
