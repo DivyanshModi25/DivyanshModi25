@@ -9,7 +9,7 @@ As an adept college student skilled in frontend development, I'm currently ventu
 * 🌍  I'm based in Mumbai,India
 * ✉️  To connect, shoot me an email at [divyanshmodi2510@gmail.com](mailto:divyanshmodi2510@gmail.com)
 * 🚀  I'm currently working on [Turboflare Car website](http://github.com/TechSavvyDivyansh/Turboflare)
-* 🧠  I'm currently delving into Selenium exploration for web scraping while refining my mastery of backend development.
+* 🧠  I'm currently delving into data science and machine learning while enhancing skills in web developement.
 * ⚡  I am a Pixel Perfectionist....tell that to everyone
 * 🥇 Winner of Technext minithon'23
 
