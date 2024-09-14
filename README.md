@@ -39,7 +39,6 @@ As an adept college student skilled in frontend development, I'm currently ventu
     <td><a href="https://shadcn.dev/" target="_blank" rel="noreferrer"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="36" height="36" alt="ShadCN" style="margin: 0;" /></a><br>ShadCN</td>
     <td><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" style="margin: 0;" /></a><br>Material UI</td>
     <td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" width="36" height="36" alt="Express" style="margin: 0;" /></a><br>Express</td>
-    <td><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJS" style="margin: 0;" /></a><br>Node.js</td>
   </tr>
 </table>
 
