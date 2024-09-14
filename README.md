@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a Full Stack Developer!!
 ------------------
 
-As an adept college student skilled in frontend development, I'm currently venturing into the dynamic realm of full-stack web development. Eager to expand my horizons, I am keenly interested in mastering cutting-edge technologies such as AI and cybersecurity. With a passion for innovation and a hunger for learning, I'm ready to dive into new stacks and embark on exciting coding adventures.
+As an adept college student skilled in frontend development, I'm currently venturing into the dynamic realm of full-stack web development. Eager to expand my horizons, I am keenly interested in mastering cutting-edge technologies such as data engineering and cybersecurity. With a passion for innovation and a hunger for learning, I'm ready to dive into new stacks and embark on exciting coding adventures.
 
 * 🌍  I'm based in Mumbai,India
 * ✉️  To connect, shoot me an email at [divyanshmodi2510@gmail.com](mailto:divyanshmodi2510@gmail.com)
-* 🚀  I'm currently working on [Turboflare Car website](http://github.com/TechSavvyDivyansh/Turboflare)
-* 🧠  I'm currently delving into data science and machine learning while enhancing skills in web developement.
-* ⚡  I am a Pixel Perfectionist....tell that to everyone
+* 🧠  I'm currently exploring machine learning 
 * 🥇 Winner of Technext minithon'23
 
 ### Skills
