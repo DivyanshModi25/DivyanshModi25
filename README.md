@@ -12,11 +12,10 @@ As an adept college student skilled in frontend development, I'm currently ventu
 * 🥇 Winner of Technext minithon'23
 
 ### Skills
-<p>
-  <a href="https://skillicons.dev">
+
+<!--  <p> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,html,css,svelte,react,nextjs,nodejs,express,flask,tailwind,mui,appwrite,git,npm,bun,bash,linux,ubuntu,figma,firebase,mongodb,mysql,blender,postman,latex,vscode,vite" />
-  </a>
-</p>
+  </a> </p>-->
 
 <h3>Programming Languages</h3>
 <table style="width: 100%; border-collapse: collapse;">
