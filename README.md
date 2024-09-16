@@ -18,7 +18,7 @@ As an adept college student skilled in frontend development, I'm currently ventu
     
   </a> </p>
 
-<h3>Programming Languages</h3>
+<!-- <h3>Programming Languages</h3>
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin: 0;" /></a><br>Python</td>
@@ -100,6 +100,8 @@ As an adept college student skilled in frontend development, I'm currently ventu
     </picture>
   </a>
 </p>
+
+-->
 
 
 ### Badges
