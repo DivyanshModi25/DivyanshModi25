@@ -13,9 +13,10 @@ As an adept college student skilled in frontend development, I'm currently ventu
 
 ### Skills
 
-<!--  <p> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,html,css,svelte,react,nextjs,nodejs,express,flask,tailwind,mui,appwrite,git,npm,bun,bash,linux,ubuntu,figma,firebase,mongodb,mysql,blender,postman,latex,vscode,vite" />
-  </a> </p>-->
+<p> <a href="https://skillicons.dev">
+    <img src=https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,c,cpp,html,css,svelte,react,nextjs,nodejs,express,flask,selenium,tailwind,mui,daisyui,skeletonui,appwrite,git,npm,bun,bash,linux,ubuntu,figma,mongodb,mysql,blender,postman,latex,vscode,vite,numpy,pandas,matplotlib,excel,gimp,jupyter,netlify,ngrok,vercel,render,"/>
+    
+  </a> </p>
 
 <h3>Programming Languages</h3>
 <table style="width: 100%; border-collapse: collapse;">
