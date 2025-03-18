@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyansh Modi
 =====================================================================================================================================
 
-a Full Stack Developer!!
+a Tech Enthusiast!!
 ------------------
 
 As an adept college student skilled in frontend development, I'm currently venturing into the dynamic realm of full-stack web development. Eager to expand my horizons, I am keenly interested in mastering cutting-edge technologies such as data engineering and cybersecurity. With a passion for innovation and a hunger for learning, I'm ready to dive into new stacks and embark on exciting coding adventures.
