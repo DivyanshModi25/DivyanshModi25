@@ -13,7 +13,7 @@ I am a dedicated full-stack developer with a passion for learning and adapting t
 ### Skills
 
 <p> <a href="https://skillicons.dev">
-    <img src=https://go-skill-icons.vercel.app/api/icons?i=python,javascript,java,c,html,css,svelte,react,nextjs,nodejs,express,flask,selenium,tailwind,mui,daisyui,appwrite,git,npm,bun,bash,linux,ubuntu,figma,mongodb,mysql,blender,davinci,postman,insomnia,latex,vscode,vite,numpy,pandas,matplotlib,excel,gimp,jupyter,netlify,ngrok,vercel,render,firebase,expo,reactnative,docker,aws,jenkins,terraform,ansible,vagrant,kafka,streamlit,airflow,snowflake,idea,maven,nginx,ec2,ecs,elb,s3,rds,sqs,"/>
+    <img src=https://go-skill-icons.vercel.app/api/icons?i=python,javascript,java,c,html,css,svelte,react,nextjs,nodejs,express,flask,fastapi,selenium,tailwind,mui,daisyui,appwrite,git,npm,bun,bash,linux,ubuntu,figma,mongodb,mysql,blender,davinci,postman,insomnia,latex,vscode,vite,numpy,pandas,matplotlib,excel,gimp,jupyter,netlify,ngrok,vercel,render,firebase,expo,reactnative,docker,aws,jenkins,terraform,ansible,vagrant,kafka,streamlit,airflow,snowflake,idea,maven,nginx,ec2,ecs,elb,s3,rds,sqs,"/>
     
   </a> </p>
 
