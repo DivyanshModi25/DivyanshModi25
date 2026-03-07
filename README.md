@@ -6,9 +6,6 @@ a Tech Enthusiast!!
 
 I am a dedicated full-stack developer with a passion for learning and adapting to new technologies. With solid experience in frontend development and growing expertise in backend, cloud (AWS), and DevOps, I enjoy building scalable, reliable systems and end-to-end solutions. I'm always eager to broaden my skill set—whether that’s diving into data engineering, exploring cybersecurity, or tackling innovative projects—and thrive on the challenge of delivering impactful, real-world applications.
 
-* 🌍  I'm based in Mumbai,India
-* ✉️  To connect, shoot me an email at [divmodi2004@gmail.com](mailto:divmodi2004@gmail.com) 
-* 🥇 Winner of Technext minithon'23
 
 ### Skills
 
